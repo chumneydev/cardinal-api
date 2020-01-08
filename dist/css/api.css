@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto',sans-serif;
+}
+
+body {
+  background: #EDF2F7;
+}
+
+p {
+  padding: 10px 0;
+  line-height: 20px;
+}
+
+#container {
+  max-width: 1440px;
+  padding: 20px;
+  margin: 20px auto;
+  background: #FFFFFF;
+  border: 1px solid #CBD5E0;
+  border-radius: 4px;
+}
+
+.ca-close {
+  width: 30px;
+  height: 30px;
+  font-size: 18px;
+  background: #000000;
+  border-radius: 50px;
+  color: #FFFFFF;
+  position: absolute;
+  top: -5px;
+  right: -5px;
+}

@@ -1,0 +1,9 @@
+.ca-approved {
+  color: #FFFFFF;
+  background: #fb792a;
+}
+
+.ca-approved:hover {
+  color: #FFFFFF;
+  background: #f86005;
+}

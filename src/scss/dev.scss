@@ -1,0 +1,19 @@
+li {
+    margin: 20px 0;
+    list-style: none;
+}
+
+.btn {
+    display: block;
+    color: #FFFFFF;
+    background: #004582;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica;
+    padding: 10px 20px;
+
+
+    &:hover {
+        background: darken(#004582, 1.0)
+    }
+}
